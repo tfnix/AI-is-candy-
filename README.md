@@ -68,7 +68,7 @@ ID,Name,Age,Email
 25,Matthew Johnson,52,matthew.johnson21@mockmail.net
 ```
 
-_A table_ <b>_user_details </b> - _mock(placeholder)-data_
+_A table_ <b>_user_details. </b> _Also mock data gerado c/ AI_
   
 </b>
 
@@ -87,7 +87,6 @@ ID,Phone,City,Occupation
 .....
 
 ```
-
 
 _isnt pretty?_ <br>
 
