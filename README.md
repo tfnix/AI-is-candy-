@@ -12,7 +12,7 @@ _Here is the plain-text, space-aligned version of the data:_
 </b>
 
 ```
-Plaintext
+
               Name  Age                          Email
     Nancy Gonzalez   53   nancy.gonzalez99@example.com
      Jessica Lopez   50    jessica.lopez16@example.com
