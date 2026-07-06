@@ -41,8 +41,6 @@ Jennifer Rodriguez   32 jennifer.rodriguez70@dummy.com
    Matthew Johnson   52 matthew.johnson21@mockmail.net
 
 ```
-
-<br>
 <b>
   
 _Now, no formato CSV plain-text_
@@ -60,17 +58,9 @@ ID,Name,Age,Email
 7,James Sanchez,53,james.sanchez50@mockmail.net
 8,William Brown,41,william.brown77@test.org
 9,Karen Lewis,48,karen.lewis66@example.com
-10,William Sanchez,63,william.sanchez44@example.com
-11,Nancy Thomas,51,nancy.thomas13@mockmail.net
-12,James Thompson,18,james.thompson25@dummy.com
-13,Charles Martinez,35,charles.martinez58@example.com
-14,John Thompson,58,john.thompson82@example.com
-15,Linda Jackson,18,linda.jackson81@dummy.com
-16,Joseph Ramirez,31,joseph.ramirez54@mockmail.net
-17,Michael Johnson,24,michael.johnson62@dummy.com
-18,Mark Hernandez,57,mark.hernandez86@dummy.com
-19,James Brown,45,james.brown27@example.com
-20,William Lewis,45,william.lewis50@dummy.com
+
+....
+
 21,Thomas Jones,20,thomas.jones43@dummy.com
 22,Thomas Martin,53,thomas.martin72@mockmail.net
 23,Barbara Sanchez,53,barbara.sanchez1@mockmail.net
@@ -78,8 +68,32 @@ ID,Name,Age,Email
 25,Matthew Johnson,52,matthew.johnson21@mockmail.net
 ```
 
+_A table_ <b>_user_details </b> - _mock(placeholder)-data_
+  
+</b>
 
-<b> _Querying the data for test only_ </b>
+```
+ID,Phone,City,Occupation
+3,772-555-2629,New York,Accountant
+21,358-555-7653,Austin,Analyst
+24,599-555-8367,New York,Consultant
+14,712-555-1383,Chicago,Writer
+8,998-555-9138,Los Angeles,Teacher
+22,972-555-3424,Los Angeles,Accountant
+16,926-555-1953,Phoenix,Consultant
+1,831-555-3507,Seattle,Writer
+12,471-555-2618,Los Angeles,Developer
+
+.....
+
+```
+
+
+_isnt pretty?_ <br>
+
+<br>
+
+<b> _Querying the data - with FK relationship_ </b>
 ```
 $ python3 loader.py
 
@@ -94,7 +108,6 @@ $ python3 loader.py
 
 ```
 
-_isnt pretty?_ <br>
 
 ## _Long Live AI!_
 
