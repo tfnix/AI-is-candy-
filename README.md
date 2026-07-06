@@ -2,10 +2,11 @@
 _AI is perfect for placeholder data_
 
 
+<br>
+
+
+output: <br>
 <b>
-
-
-  
 _Here is the plain-text, space-aligned version of the data:_
 
 </b>
