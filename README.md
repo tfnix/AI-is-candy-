@@ -78,6 +78,22 @@ ID,Name,Age,Email
 25,Matthew Johnson,52,matthew.johnson21@mockmail.net
 ```
 
+
+<b> _Querying the data for test only_ </b>
+```
+$ python3 loader.py
+
+✅ Data successfully loaded into SQLite!
+
+ ID            Name                        Email     City Occupation
+  1  Nancy Gonzalez nancy.gonzalez99@example.com  Seattle     Writer
+  2   Jessica Lopez  jessica.lopez16@example.com  Seattle   Engineer
+  3  Mark Rodriguez   mark.rodriguez66@dummy.com New York Accountant
+  4 Patricia Harris   patricia.harris59@test.org  Houston Consultant
+  5  Jessica Wilson   jessica.wilson93@dummy.com   Denver Accountant
+
+```
+
 _isnt pretty?_ <br>
 
 ## _Long Live AI!_
